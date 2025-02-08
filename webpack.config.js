@@ -7,4 +7,6 @@ export default {
     ],
   },
   watch: true,
+  mode: "development",
+  devtool: "source-map",
 };
