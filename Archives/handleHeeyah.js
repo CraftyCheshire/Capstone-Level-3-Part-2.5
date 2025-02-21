@@ -1,5 +1,3 @@
-// document.getElementById("chuckBtn").addEventListener("click", handleHeeyah);
-
 window.handleHeeyah = handleHeeyah
 
 export default function handleHeeyah() {
